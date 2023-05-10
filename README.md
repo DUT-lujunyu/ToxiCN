@@ -7,7 +7,7 @@
 ## 📜 ToxiCN
 we introduce a hierarchical taxonomy **Monitor Toxic Frame**. Based on the taxonomy, the posts are progressively divided into diverse granularities as follows: **_(I) Whether Toxic_**, ***(II) Toxic Type*** (general offensive language or hate speech), ***(III) Targeted Group***, ***(IV) Expression Category*** (explicitness, implicitness, or reporting). 
 
-![图片](https://github.com/DUT-lujunyu/ToxiCN/assets/53985277/8d9e0cff-8df5-4640-b74a-1874ad6034da)
+![图片](https://github.com/DUT-lujunyu/ToxiCN/assets/53985277/192a5c2f-2404-4294-ad1f-4784b57424f5)
 
 
 ## 📜 ToxiCN
@@ -17,7 +17,7 @@ We conduct a fine-grained annotation of posts crawled from _Zhihu_ and _Tieba_, 
 The resource is still being collated. We will upload it as soon as possible.
 
 ## 📜 Benchmark
-We present a migratable benchmark of Toxic Knowledge Enhancement (TKE), enriching the text representation. The code is shown in **_modeling_bert.py_**, which is based on transformers 3.1.0.
+We present a migratable benchmark of Toxic Knowledge Enhancement (TKE), enriching the text representation. The code is shown in **_modeling_bert.py_**, which is based on **transformers 3.1.0**.
 
 ## ❗️ Ethics Statement
 The opinions and findings contained in the samples of our presented dataset should not be interpreted as representing the views expressed or implied by the authors. We hope that the benefits of our proposed resources outweigh their risks. **All resources are for scientific research only.**
@@ -27,4 +27,13 @@ This work is licensed under a Creative Commons Attribution- NonCommercial-NoDeri
 
 ## Cite
 If you want to , please cite the following paper:
-
+~~~
+@misc{lu2023facilitating,
+      title={Facilitating Fine-grained Detection of Chinese Toxic Language: Hierarchical Taxonomy, Resources, and Benchmarks}, 
+      author={Junyu Lu and Bo Xu and Xiaokun Zhang and Changrong Min and Liang Yang and Hongfei Lin},
+      year={2023},
+      eprint={2305.04446},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+~~~
