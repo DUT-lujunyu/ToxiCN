@@ -24,7 +24,8 @@ This work is licensed under a Creative Commons Attribution- NonCommercial-NoDeri
 
 ## Poster
 
-![Poster](https://github.com/DUT-lujunyu/ToxiCN/files/11957946/CCAC_2.pdf)
+![Poster](https://github.com/DUT-lujunyu/ToxiCN/assets/53985277/545440ad-6abf-4cde-83b8-4e4cae948c56)
+
 
 ## Cite
 If you want to use the resources, please cite the following paper:
