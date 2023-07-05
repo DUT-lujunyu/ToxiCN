@@ -25,8 +25,13 @@ The opinions and findings contained in the samples of our presented dataset shou
 ## ❗️ Licenses
 This work is licensed under a Creative Commons Attribution- NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). 
 
+## Poster
+
+[CCAC.pdf](https://github.com/DUT-lujunyu/ToxiCN/files/11957931/CCAC.pdf)
+
+
 ## Cite
-If you want to , please cite the following paper:
+If you want to use the resources, please cite the following paper:
 ~~~
 @misc{lu2023facilitating,
       title={Facilitating Fine-grained Detection of Chinese Toxic Language: Hierarchical Taxonomy, Resources, and Benchmarks}, 
@@ -37,3 +42,4 @@ If you want to , please cite the following paper:
       primaryClass={cs.CL}
 }
 ~~~
+
