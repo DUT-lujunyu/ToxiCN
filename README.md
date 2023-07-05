@@ -7,7 +7,8 @@
 ## 📜 ToxiCN
 we introduce a hierarchical taxonomy **Monitor Toxic Frame**. Based on the taxonomy, the posts are progressively divided into diverse granularities as follows: **_(I) Whether Toxic_**, ***(II) Toxic Type*** (general offensive language or hate speech), ***(III) Targeted Group***, ***(IV) Expression Category*** (explicitness, implicitness, or reporting). 
 
-![图片](https://github.com/DUT-lujunyu/ToxiCN/assets/53985277/192a5c2f-2404-4294-ad1f-4784b57424f5)
+https://github.com/DUT-lujunyu/ToxiCN/files/11957940/CCAC_2.pdf
+
 
 
 ## 📜 ToxiCN
