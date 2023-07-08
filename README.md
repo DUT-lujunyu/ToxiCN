@@ -1,6 +1,6 @@
 # Facilitating Fine-grained Detection of Chinese Toxic Language: Hierarchical Taxonomy, Resources, and Benchmark
 
-**The paper has been accepted in ACL 2023.**
+**The paper has been accepted in ACL 2023 (main conference, long paper).**
 
 ☠️ ***Warning: The samples presented by this paper may be considered offensive or vulgar.***
 
