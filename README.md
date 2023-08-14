@@ -30,13 +30,22 @@ This work is licensed under a Creative Commons Attribution- NonCommercial-NoDeri
 ## Cite
 If you want to use the resources, please cite the following paper:
 ~~~
-@misc{lu2023facilitating,
-      title={Facilitating Fine-grained Detection of Chinese Toxic Language: Hierarchical Taxonomy, Resources, and Benchmarks}, 
-      author={Junyu Lu and Bo Xu and Xiaokun Zhang and Changrong Min and Liang Yang and Hongfei Lin},
-      year={2023},
-      eprint={2305.04446},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{lu-etal-2023-facilitating,
+    title = "Facilitating Fine-grained Detection of {C}hinese Toxic Language: Hierarchical Taxonomy, Resources, and Benchmarks",
+    author = "Lu, Junyu  and
+      Xu, Bo  and
+      Zhang, Xiaokun  and
+      Min, Changrong  and
+      Yang, Liang  and
+      Lin, Hongfei",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-long.898",
+    doi = "10.18653/v1/2023.acl-long.898",
+    pages = "16235--16250",
 }
 ~~~
 
