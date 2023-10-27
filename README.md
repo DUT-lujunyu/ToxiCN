@@ -8,7 +8,14 @@
 we introduce a hierarchical taxonomy **Monitor Toxic Frame**. Based on the taxonomy, the posts are progressively divided into diverse granularities as follows: **_(I) Whether Toxic_**, ***(II) Toxic Type*** (general offensive language or hate speech), ***(III) Targeted Group***, ***(IV) Expression Category*** (explicitness, implicitness, or reporting). 
 
 ## 📜 ToxiCN
-We conduct a fine-grained annotation of posts crawled from _Zhihu_ and _Tieba_, including both direct and indirect toxic samples. And ToxiCN dataset is presented, which has 12k comments containing **_Sexism_**, **_Racism_**, **_Regional Bias_**, **_Anti-LGBTQ_**, and **_Others_**. The dataset is presented in ***ToxiCN_1.0.csv***.
+We conduct a fine-grained annotation of posts crawled from _Zhihu_ and _Tieba_, including both direct and indirect toxic samples. And ToxiCN dataset is presented, which has 12k comments containing **_Sexism_**, **_Racism_**, **_Regional Bias_**, **_Anti-LGBTQ_**, and **_Others_**. The dataset is presented in ***ToxiCN_1.0.csv***. Here we simply describe each fine-grain label.
+
+| Label           | Description                                                  |
+| --------------- | ------------------------------------------------------------ |
+| toxic           | Identify if a comment is toxic (0) or non-toxic (1).         |
+| toxic_type      | non-toxic: 0, general offensive language: 1, hate speech: 2  |
+| expression      | non-hate: 0, explicit hate speech: 1, implicit hate speech: 2 |
+| target (a list) | LGBTQ: Index 0, Region: Index 1, Sexism: Index 2, Racism: Index 3,  others: Index 4, non-hate: Index 5 |
 
 ## 📜 Insult Lexicon
 The resource is still being collated. We will upload it as soon as possible.
@@ -24,7 +31,7 @@ This work is licensed under a Creative Commons Attribution- NonCommercial-NoDeri
 
 ## Poster
 
-![Poster](https://github.com/DUT-lujunyu/ToxiCN/assets/53985277/545440ad-6abf-4cde-83b8-4e4cae948c56)
+![Poster](images/Similarity_based_Explanation/545440ad-6abf-4cde-83b8-4e4cae948c56.jpeg)
 
 
 ## Cite
@@ -48,4 +55,3 @@ If you want to use the resources, please cite the following paper:
     pages = "16235--16250",
 }
 ~~~
-
