@@ -30,8 +30,7 @@ The opinions and findings contained in the samples of our presented dataset shou
 This work is licensed under a Creative Commons Attribution- NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). 
 
 ## Poster
-
-![Poster](images/Similarity_based_Explanation/545440ad-6abf-4cde-83b8-4e4cae948c56.jpeg)
+[CCAC_2.pdf](https://github.com/DUT-lujunyu/ToxiCN/files/13194136/CCAC_2.pdf)
 
 
 ## Cite
