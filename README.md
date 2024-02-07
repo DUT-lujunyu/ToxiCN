@@ -18,8 +18,7 @@ We conduct a fine-grained annotation of posts crawled from _Zhihu_ and _Tieba_, 
 | target (a list) | LGBTQ: Index 0, Region: Index 1, Sexism: Index 2, Racism: Index 3,  others: Index 4, non-hate: Index 5 |
 
 ## 📜 Insult Lexicon
-The resource is still being collated. We will upload it as soon as possible.
-
+See https://github.com/DUT-lujunyu/ToxiCN/tree/main/ToxiCN_ex/ToxiCN/lexicon
 ## 📜 Benchmark
 We present a migratable benchmark of **Toxic Knowledge Enhancement** (**TKE**), enriching the text representation. The code is shown in **_modeling_bert.py_**, which is based on **transformers 3.1.0**.
 
