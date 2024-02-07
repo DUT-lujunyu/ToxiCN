@@ -12,7 +12,7 @@ We conduct a fine-grained annotation of posts crawled from _Zhihu_ and _Tieba_, 
 
 | Label           | Description                                                  |
 | --------------- | ------------------------------------------------------------ |
-| toxic           | Identify if a comment is toxic (0) or non-toxic (1).         |
+| toxic           | Identify if a comment is toxic (1) or non-toxic (0).         |
 | toxic_type      | non-toxic: 0, general offensive language: 1, hate speech: 2  |
 | expression      | non-hate: 0, explicit hate speech: 1, implicit hate speech: 2 |
 | target (a list) | LGBTQ: Index 0, Region: Index 1, Sexism: Index 2, Racism: Index 3,  others: Index 4, non-hate: Index 5 |
