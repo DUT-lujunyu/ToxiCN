@@ -1,5 +1,10 @@
 # Facilitating Fine-grained Detection of Chinese Toxic Language: Hierarchical Taxonomy, Resources, and Benchmark
 
+🎉**2024.5 Our proposed dataset, ToxiCN, has been adopted by the international evaluation CLEF 2024: Multilingual Text Detoxification as the sole Chinese data source. [Task](https://pan.webis.de/clef24/pan24-web/text-detoxification.html) [Report](https://ceur-ws.org/Vol-3740/paper-223.pdf)**
+___ 
+
+
+
 **The paper has been accepted in ACL 2023 (main conference, long paper).** [Paper](https://aclanthology.org/2023.acl-long.898/)
 
 ☠️ ***Warning: The samples presented by this paper may be considered offensive or vulgar.***
