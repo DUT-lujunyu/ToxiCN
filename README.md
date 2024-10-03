@@ -2,7 +2,7 @@
 
 🎉**2024.9 Our related study, titled "Towards Comprehensive Detection of Chinese Harmful Meme", has been accepted to NeurIPS 2024! In this paper, we present ToxiCN_MM, the first Chinese harmful meme dataset. Here is the linke: [https://github.com/DUT-lujunyu/ToxiCN](https://github.com/DUT-lujunyu/ToxiCN). Welcome to star or fork it!**
 
-**2024.9 Our related study, titled "PclGPT: A Large Language Model for Patronizing and Condescending Language Detection", has been accepted to NeurIPS 2024! In this paper, we focus on a specific type of implicit toxicity, patronizing and condescending language. [link](https://github.com/dut-laowang/emnlp24-PclGPT/tree/main) [paper](https://arxiv.org/abs/2410.00361)**
+**2024.9 Our related study, titled "PclGPT: A Large Language Model for Patronizing and Condescending Language Detection", has been accepted to EMNLP 2024! In this paper, we focus on a specific type of implicit toxicity, patronizing and condescending language. [link](https://github.com/dut-laowang/emnlp24-PclGPT/tree/main) [paper](https://arxiv.org/abs/2410.00361)**
 
 🎉**2024.5 Our proposed dataset, ToxiCN, has been adopted by the international evaluation CLEF 2024: [Multilingual Text Detoxification](https://pan.webis.de/clef24/pan24-web/text-detoxification.html) as the sole Chinese data source. [Report](https://ceur-ws.org/Vol-3740/paper-223.pdf)**
 ___ 
