@@ -1,6 +1,6 @@
 # Facilitating Fine-grained Detection of Chinese Toxic Language: Hierarchical Taxonomy, Resources, and Benchmark
 
-🎉**2024.9 Our related study, titled "Towards Comprehensive Detection of Chinese Harmful Meme", has been accepted to NeurIPS 2024! In this paper, we present ToxiCN_MM, the first Chinese harmful meme dataset. Here is the linke: [https://github.com/DUT-lujunyu/ToxiCN](https://github.com/DUT-lujunyu/ToxiCN). Welcome to star or fork it!**
+🎉**2024.9 Our related study, titled "Towards Comprehensive Detection of Chinese Harmful Meme", has been accepted to NeurIPS 2024! In this paper, we present ToxiCN_MM, the first Chinese harmful meme dataset. Here is the linke: [https://github.com/DUT-lujunyu/ToxiCN](https://github.com/DUT-lujunyu/ToxiCN_MM). Welcome to star or fork it!**
 
 🎉**2024.9 Our related study, titled "PclGPT: A Large Language Model for Patronizing and Condescending Language Detection", has been accepted to EMNLP 2024! In this paper, we focus on a specific type of implicit toxicity, patronizing and condescending language. [link](https://github.com/dut-laowang/emnlp24-PclGPT/tree/main) [paper](https://arxiv.org/abs/2410.00361)**
 
