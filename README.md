@@ -1,6 +1,7 @@
 # Facilitating Fine-grained Detection of Chinese Toxic Language: Hierarchical Taxonomy, Resources, and Benchmark
 
 🎉**2024.9 Our related study, titled "Towards Comprehensive Detection of Chinese Harmful Meme", has been accepted to NeurIPS 2024! In this paper, we present ToxiCN_MM, the first Chinese harmful meme dataset. Welcome to star or fork it at [https://github.com/DUT-lujunyu/ToxiCN](https://github.com/DUT-lujunyu/ToxiCN)!**
+
 🎉**2024.5 Our proposed dataset, ToxiCN, has been adopted by the international evaluation CLEF 2024: [Multilingual Text Detoxification](https://pan.webis.de/clef24/pan24-web/text-detoxification.html) as the sole Chinese data source. [Report](https://ceur-ws.org/Vol-3740/paper-223.pdf)**
 ___ 
 
