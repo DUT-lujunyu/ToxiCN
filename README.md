@@ -19,12 +19,12 @@ we introduce a hierarchical taxonomy **Monitor Toxic Frame**. Based on the taxon
 ## 📜 ToxiCN
 We conduct a fine-grained annotation of posts crawled from _Zhihu_ and _Tieba_, including both direct and indirect toxic samples. And ToxiCN dataset is presented, which has 12k comments containing **_Sexism_**, **_Racism_**, **_Regional Bias_**, **_Anti-LGBTQ_**, and **_Others_**. The dataset is presented in ***ToxiCN_1.0.csv***. Here we simply describe each fine-grain label.
 
-| Label           | Description                                                  |
-| --------------- | ------------------------------------------------------------ |
-| toxic           | Identify if a comment is toxic (1) or non-toxic (0).         |
-| toxic_type      | non-toxic: 0, general offensive language: 1, hate speech: 2  |
-| expression      | non-hate: 0, explicit hate speech: 1, implicit hate speech: 2, reporting: 3|
-| target (a list) | LGBTQ: Index 0, Region: Index 1, Sexism: Index 2, Racism: Index 3,  others: Index 4, non-hate: Index 5 |
+| Label             | Description                                                  |
+| ----------------- | ------------------------------------------------------------ |
+| toxic             | Identify if a comment is toxic (1) or non-toxic (0).         |
+| toxic_type        | non-toxic: 0, general offensive language: 1, hate speech: 2  |
+| expression        | non-hate: 0, explicit hate speech: 1, implicit hate speech: 2, reporting: 3|
+| target (a list)   | LGBTQ: Index 0, Region: Index 1, Sexism: Index 2, Racism: Index 3,  others: Index 4, non-hate: Index 5 |
 
 ## 📜 Insult Lexicon
 See https://github.com/DUT-lujunyu/ToxiCN/tree/main/ToxiCN_ex/ToxiCN/lexicon
