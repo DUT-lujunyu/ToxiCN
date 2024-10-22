@@ -13,6 +13,10 @@ ___
 
 ☠️ ***Warning: The samples presented by this paper may be considered offensive or vulgar.***
 
+## ❗️ Ethics Statement
+The opinions and findings contained in the samples of our presented dataset should not be interpreted as representing the views expressed or implied by the authors. We acknowledge the risk of malicious actors attempting to reverse-engineer memes. **We sincerely hope that users will employ the dataset responsibly and appropriately, avoiding misuse or abuse.** We believe the benefits of our proposed resources outweigh the associated risks. **All resources are intended solely for scientific research and are prohibited from commercial use.**
+
+
 ## 📜 Monitor Toxic Frame
 we introduce a hierarchical taxonomy **Monitor Toxic Frame**. Based on the taxonomy, the posts are progressively divided into diverse granularities as follows: **_(I) Whether Toxic_**, ***(II) Toxic Type*** (general offensive language or hate speech), ***(III) Targeted Group***, ***(IV) Expression Category*** (explicitness, implicitness, or reporting). 
 
@@ -31,8 +35,6 @@ See https://github.com/DUT-lujunyu/ToxiCN/tree/main/ToxiCN_ex/ToxiCN/lexicon
 ## 📜 Benchmark
 We present a migratable benchmark of **Toxic Knowledge Enhancement** (**TKE**), enriching the text representation. The code is shown in **_modeling_bert.py_**, which is based on **transformers 3.1.0**.
 
-## ❗️ Ethics Statement
-The opinions and findings contained in the samples of our presented dataset should not be interpreted as representing the views expressed or implied by the authors. We hope that the benefits of our proposed resources outweigh their risks. **All resources are for scientific research only.**
 
 ## ❗️ Licenses
 This work is licensed under a Creative Commons Attribution- NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). 
