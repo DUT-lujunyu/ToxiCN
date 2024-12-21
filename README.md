@@ -1,13 +1,17 @@
 # Facilitating Fine-grained Detection of Chinese Toxic Language: Hierarchical Taxonomy, Resources, and Benchmark
 
-🎉**2024.9 Our related study, titled "Towards Comprehensive Detection of Chinese Harmful Meme", has been accepted to NeurIPS 2024! In this paper, we present ToxiCN_MM, the first Chinese harmful meme dataset. Here is the link: [https://github.com/DUT-lujunyu/ToxiCN_MM](https://github.com/DUT-lujunyu/ToxiCN_MM). Welcome to star or fork it!**
-
-🎉**2024.9 Our related study, titled "PclGPT: A Large Language Model for Patronizing and Condescending Language Detection", has been accepted to EMNLP 2024! In this paper, we focus on a specific type of implicit toxicity, patronizing and condescending language. [link](https://github.com/dut-laowang/emnlp24-PclGPT/tree/main) [paper](https://arxiv.org/abs/2410.00361)**
+## 📜 News
 
 🎉**2024.5 Our proposed dataset, ToxiCN, has been adopted by the international evaluation [CLEF 2024: Multilingual Text Detoxification](https://pan.webis.de/clef24/pan24-web/text-detoxification.html) as the sole Chinese data source. [Report](https://ceur-ws.org/Vol-3740/paper-223.pdf)**
 ___ 
 
+## 📜 Further Research and Dataset
 
+* **Towards Comprehensive Detection of Chinese Harmful Meme** (NeurIPS2024). In this paper, we present the definition of  **Chinese Harmful Meme Detection** to align with the Chinese online environment. and present **ToxiCN MM**, the first Chinese harmful meme dataset. [paper](https://arxiv.org/abs/2410.02378) [repo](https://github.com/DUT-lujunyu/ToxiCN_MM)
+* **PclGPT: A Large Language Model for Patronizing and Condescending Language Detection** (EMNLP2024 findings). In this paper, we focus on a specific type of implicit toxicity, **patronizing and condescending language (PCL)**, and leverage LLMs to detect it. [paper](https://arxiv.org/abs/2410.00361)[link](https://github.com/dut-laowang/emnlp24-PclGPT)
+* **Towards Patronizing and Condescending Language in Chinese Videos: A Multimodal Dataset and Detector** (ICASSP2025). In this paper, we introduce the **PCL MM** dataset, the first Chinese multimodal dataset for PCL, and propose the **MultiPCL** framework for detection. [paper](https://arxiv.org/abs/2409.05005)[link](https://github.com/dut-laowang/PCLMM)
+___ 
+ 
 
 **The paper has been accepted in ACL 2023 (main conference, long paper).** [Paper](https://aclanthology.org/2023.acl-long.898/)
 
@@ -35,9 +39,10 @@ See https://github.com/DUT-lujunyu/ToxiCN/tree/main/ToxiCN_ex/ToxiCN/lexicon
 ## 📜 Benchmark
 We present a migratable benchmark of **Toxic Knowledge Enhancement** (**TKE**), enriching the text representation. The code is shown in **_modeling_bert.py_**, which is based on **transformers 3.1.0**.
 
-
 ## ❗️ Licenses
 This work is licensed under a Creative Commons Attribution- NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). 
+
+
 
 ## Poster
 ![CCAC_2](https://github.com/DUT-lujunyu/ToxiCN/assets/53985277/8e26c649-0952-4d04-a562-b971f441df07)
