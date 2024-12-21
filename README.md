@@ -8,7 +8,7 @@ ___
 ## 📜 Further Research and Dataset
 
 * **Towards Comprehensive Detection of Chinese Harmful Meme** (NeurIPS2024). In this paper, we present the definition of  **Chinese Harmful Meme Detection** to align with the Chinese online environment. and present **ToxiCN MM**, the first Chinese harmful meme dataset. [paper](https://arxiv.org/abs/2410.02378) [repo](https://github.com/DUT-lujunyu/ToxiCN_MM)
-* **PclGPT: A Large Language Model for Patronizing and Condescending Language Detection** (EMNLP2024 findings). In this paper, we focus on a specific type of implicit toxicity, **patronizing and condescending language (PCL)**, and leverage LLMs to detect it. [paper](https://arxiv.org/abs/2410.00361) [repo](https://github.com/dut-laowang/emnlp24-PclGPT)
+* **PclGPT: A Large Language Model for Patronizing and Condescending Language Detection** (EMNLP2024 findings). In this paper, we focus on a specific type of implicit toxic bias, **patronizing and condescending language (PCL)**, and leverage LLMs to detect it. [paper](https://arxiv.org/abs/2410.00361) [repo](https://github.com/dut-laowang/emnlp24-PclGPT)
 * **Towards Patronizing and Condescending Language in Chinese Videos: A Multimodal Dataset and Detector** (ICASSP2025). In this paper, we introduce the **PCL MM** dataset, the first Chinese multimodal dataset for PCL, and propose the **MultiPCL** framework for detection. [paper](https://arxiv.org/abs/2409.05005) [repo](https://github.com/dut-laowang/PCLMM)
 ___ 
  
