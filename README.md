@@ -1,5 +1,7 @@
 # Facilitating Fine-grained Detection of Chinese Toxic Language: Hierarchical Taxonomy, Resources, and Benchmark
 
+_This repository will be updated from time to time with the latest research progress of the DUTIR team in Chinese hate speech detection. Welcome to follow! If you have any questions, feel free to contact us at: [dut_ljy@foxmail.com](dut_ljy@foxmail.com)_.
+
 ## 📜 News
 
 🎉**2025.5 Our proposed aspect-level Chinese hate speech dataset, State ToxiCN, has been accepted to ACL 2025 Findings. It extends the original ToxiCN dataset by extracting fine-grained toxic features from each sample, including specific arguments and target entities. Welcome to use and star! [paper](http://arxiv.org/abs/2501.15451v2) [repo](https://github.com/shenmeyemeifashengguo/STATE-ToxiCN)** 
