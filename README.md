@@ -16,12 +16,6 @@ _This repository will be updated from time to time with the latest research prog
 - [Cite](#cite)
 
 
-## News
-
-🎉 **2025.5** Our proposed aspect-level Chinese hate speech dataset, **State ToxiCN**, has been accepted to **ACL 2025 Findings**. It extends the original ToxiCN dataset by extracting fine-grained toxic features from each sample, including specific arguments and target entities. Welcome to star! [paper](http://arxiv.org/abs/2501.15451v2) [repo](https://github.com/shenmeyemeifashengguo/STATE-ToxiCN)
-
-🎉 **2024.5** Our proposed dataset, **ToxiCN**, has been adopted by the international evaluation [CLEF 2024: Multilingual Text Detoxification](https://pan.webis.de/clef24/pan24-web/text-detoxification.html) as the sole Chinese data source. [Report](https://ceur-ws.org/Vol-3740/paper-223.pdf)
-
 ---
 
 **The paper has been accepted in ACL 2023 (main conference, long paper).** [Paper](https://aclanthology.org/2023.acl-long.898/)
