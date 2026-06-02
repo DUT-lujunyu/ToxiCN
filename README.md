@@ -1,5 +1,8 @@
 # Facilitating Fine-grained Detection of Chinese Toxic Language: Hierarchical Taxonomy, Resources, and Benchmark
 
+
+🎉 **2026.5** Recently, we organized ToxiCN and a selection of its representative citing papers. If you are interested, please see [ToxiCN-family](https://dut-lujunyu.github.io/ToxiCN-Family/). We hope this collection can offer a clearer view of Chinese toxicity research.
+
 _This repository will be updated from time to time with the latest research progress of the DUTIR team in Chinese hate speech detection. Welcome to follow! If you have any questions, feel free to contact us at: [dut_ljy@foxmail.com](dut_ljy@foxmail.com)_.
 
 ## Contents
